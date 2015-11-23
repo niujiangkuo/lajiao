@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BCEEBA8F1C02ED4000F46203"
+               BlueprintIdentifier = "BCEEBAC11C02EE0900F46203"
                BuildableName = "lajiao.app"
                BlueprintName = "lajiao"
                ReferencedContainer = "container:lajiao.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BCEEBAA81C02ED4000F46203"
+               BlueprintIdentifier = "BCEEBADA1C02EE0900F46203"
                BuildableName = "lajiaoTests.xctest"
                BlueprintName = "lajiaoTests"
                ReferencedContainer = "container:lajiao.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BCEEBAA81C02ED4000F46203"
+               BlueprintIdentifier = "BCEEBADA1C02EE0900F46203"
                BuildableName = "lajiaoTests.xctest"
                BlueprintName = "lajiaoTests"
                ReferencedContainer = "container:lajiao.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BCEEBA8F1C02ED4000F46203"
+            BlueprintIdentifier = "BCEEBAC11C02EE0900F46203"
             BuildableName = "lajiao.app"
             BlueprintName = "lajiao"
             ReferencedContainer = "container:lajiao.xcodeproj">
@@ -76,7 +76,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BCEEBA8F1C02ED4000F46203"
+            BlueprintIdentifier = "BCEEBAC11C02EE0900F46203"
             BuildableName = "lajiao.app"
             BlueprintName = "lajiao"
             ReferencedContainer = "container:lajiao.xcodeproj">
@@ -95,7 +95,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BCEEBA8F1C02ED4000F46203"
+            BlueprintIdentifier = "BCEEBAC11C02EE0900F46203"
             BuildableName = "lajiao.app"
             BlueprintName = "lajiao"
             ReferencedContainer = "container:lajiao.xcodeproj">
