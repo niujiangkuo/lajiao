@@ -7,50 +7,50 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BCEEBA961C02ED4000F46203 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEEBA951C02ED4000F46203 /* main.m */; };
-		BCEEBA991C02ED4000F46203 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEEBA981C02ED4000F46203 /* AppDelegate.m */; };
-		BCEEBA9C1C02ED4000F46203 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEEBA9B1C02ED4000F46203 /* ViewController.m */; };
-		BCEEBA9F1C02ED4000F46203 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCEEBA9D1C02ED4000F46203 /* Main.storyboard */; };
-		BCEEBAA11C02ED4000F46203 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BCEEBAA01C02ED4000F46203 /* Images.xcassets */; };
-		BCEEBAA41C02ED4000F46203 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BCEEBAA21C02ED4000F46203 /* LaunchScreen.xib */; };
-		BCEEBAB01C02ED4000F46203 /* lajiaoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEEBAAF1C02ED4000F46203 /* lajiaoTests.m */; };
+		BCEEBAC81C02EE0900F46203 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEEBAC71C02EE0900F46203 /* main.m */; };
+		BCEEBACB1C02EE0900F46203 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEEBACA1C02EE0900F46203 /* AppDelegate.m */; };
+		BCEEBACE1C02EE0900F46203 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEEBACD1C02EE0900F46203 /* ViewController.m */; };
+		BCEEBAD11C02EE0900F46203 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCEEBACF1C02EE0900F46203 /* Main.storyboard */; };
+		BCEEBAD31C02EE0900F46203 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BCEEBAD21C02EE0900F46203 /* Images.xcassets */; };
+		BCEEBAD61C02EE0900F46203 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BCEEBAD41C02EE0900F46203 /* LaunchScreen.xib */; };
+		BCEEBAE21C02EE0900F46203 /* lajiaoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEEBAE11C02EE0900F46203 /* lajiaoTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		BCEEBAAA1C02ED4000F46203 /* PBXContainerItemProxy */ = {
+		BCEEBADC1C02EE0900F46203 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BCEEBA881C02ED4000F46203 /* Project object */;
+			containerPortal = BCEEBABA1C02EE0900F46203 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = BCEEBA8F1C02ED4000F46203;
+			remoteGlobalIDString = BCEEBAC11C02EE0900F46203;
 			remoteInfo = lajiao;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BCEEBA901C02ED4000F46203 /* lajiao.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lajiao.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BCEEBA941C02ED4000F46203 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BCEEBA951C02ED4000F46203 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		BCEEBA971C02ED4000F46203 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		BCEEBA981C02ED4000F46203 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		BCEEBA9A1C02ED4000F46203 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		BCEEBA9B1C02ED4000F46203 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		BCEEBA9E1C02ED4000F46203 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		BCEEBAA01C02ED4000F46203 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		BCEEBAA31C02ED4000F46203 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		BCEEBAA91C02ED4000F46203 /* lajiaoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lajiaoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		BCEEBAAE1C02ED4000F46203 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BCEEBAAF1C02ED4000F46203 /* lajiaoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lajiaoTests.m; sourceTree = "<group>"; };
+		BCEEBAC21C02EE0900F46203 /* lajiao.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lajiao.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCEEBAC61C02EE0900F46203 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BCEEBAC71C02EE0900F46203 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		BCEEBAC91C02EE0900F46203 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		BCEEBACA1C02EE0900F46203 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		BCEEBACC1C02EE0900F46203 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		BCEEBACD1C02EE0900F46203 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		BCEEBAD01C02EE0900F46203 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BCEEBAD21C02EE0900F46203 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		BCEEBAD51C02EE0900F46203 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		BCEEBADB1C02EE0900F46203 /* lajiaoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lajiaoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCEEBAE01C02EE0900F46203 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BCEEBAE11C02EE0900F46203 /* lajiaoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lajiaoTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BCEEBA8D1C02ED4000F46203 /* Frameworks */ = {
+		BCEEBABF1C02EE0900F46203 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BCEEBAA61C02ED4000F46203 /* Frameworks */ = {
+		BCEEBAD81C02EE0900F46203 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -60,61 +60,61 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		BCEEBA871C02ED4000F46203 = {
+		BCEEBAB91C02EE0900F46203 = {
 			isa = PBXGroup;
 			children = (
-				BCEEBA921C02ED4000F46203 /* lajiao */,
-				BCEEBAAC1C02ED4000F46203 /* lajiaoTests */,
-				BCEEBA911C02ED4000F46203 /* Products */,
+				BCEEBAC41C02EE0900F46203 /* lajiao */,
+				BCEEBADE1C02EE0900F46203 /* lajiaoTests */,
+				BCEEBAC31C02EE0900F46203 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		BCEEBA911C02ED4000F46203 /* Products */ = {
+		BCEEBAC31C02EE0900F46203 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BCEEBA901C02ED4000F46203 /* lajiao.app */,
-				BCEEBAA91C02ED4000F46203 /* lajiaoTests.xctest */,
+				BCEEBAC21C02EE0900F46203 /* lajiao.app */,
+				BCEEBADB1C02EE0900F46203 /* lajiaoTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BCEEBA921C02ED4000F46203 /* lajiao */ = {
+		BCEEBAC41C02EE0900F46203 /* lajiao */ = {
 			isa = PBXGroup;
 			children = (
-				BCEEBA971C02ED4000F46203 /* AppDelegate.h */,
-				BCEEBA981C02ED4000F46203 /* AppDelegate.m */,
-				BCEEBA9A1C02ED4000F46203 /* ViewController.h */,
-				BCEEBA9B1C02ED4000F46203 /* ViewController.m */,
-				BCEEBA9D1C02ED4000F46203 /* Main.storyboard */,
-				BCEEBAA01C02ED4000F46203 /* Images.xcassets */,
-				BCEEBAA21C02ED4000F46203 /* LaunchScreen.xib */,
-				BCEEBA931C02ED4000F46203 /* Supporting Files */,
+				BCEEBAC91C02EE0900F46203 /* AppDelegate.h */,
+				BCEEBACA1C02EE0900F46203 /* AppDelegate.m */,
+				BCEEBACC1C02EE0900F46203 /* ViewController.h */,
+				BCEEBACD1C02EE0900F46203 /* ViewController.m */,
+				BCEEBACF1C02EE0900F46203 /* Main.storyboard */,
+				BCEEBAD21C02EE0900F46203 /* Images.xcassets */,
+				BCEEBAD41C02EE0900F46203 /* LaunchScreen.xib */,
+				BCEEBAC51C02EE0900F46203 /* Supporting Files */,
 			);
 			path = lajiao;
 			sourceTree = "<group>";
 		};
-		BCEEBA931C02ED4000F46203 /* Supporting Files */ = {
+		BCEEBAC51C02EE0900F46203 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				BCEEBA941C02ED4000F46203 /* Info.plist */,
-				BCEEBA951C02ED4000F46203 /* main.m */,
+				BCEEBAC61C02EE0900F46203 /* Info.plist */,
+				BCEEBAC71C02EE0900F46203 /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		BCEEBAAC1C02ED4000F46203 /* lajiaoTests */ = {
+		BCEEBADE1C02EE0900F46203 /* lajiaoTests */ = {
 			isa = PBXGroup;
 			children = (
-				BCEEBAAF1C02ED4000F46203 /* lajiaoTests.m */,
-				BCEEBAAD1C02ED4000F46203 /* Supporting Files */,
+				BCEEBAE11C02EE0900F46203 /* lajiaoTests.m */,
+				BCEEBADF1C02EE0900F46203 /* Supporting Files */,
 			);
 			path = lajiaoTests;
 			sourceTree = "<group>";
 		};
-		BCEEBAAD1C02ED4000F46203 /* Supporting Files */ = {
+		BCEEBADF1C02EE0900F46203 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				BCEEBAAE1C02ED4000F46203 /* Info.plist */,
+				BCEEBAE01C02EE0900F46203 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -122,13 +122,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BCEEBA8F1C02ED4000F46203 /* lajiao */ = {
+		BCEEBAC11C02EE0900F46203 /* lajiao */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BCEEBAB31C02ED4000F46203 /* Build configuration list for PBXNativeTarget "lajiao" */;
+			buildConfigurationList = BCEEBAE51C02EE0900F46203 /* Build configuration list for PBXNativeTarget "lajiao" */;
 			buildPhases = (
-				BCEEBA8C1C02ED4000F46203 /* Sources */,
-				BCEEBA8D1C02ED4000F46203 /* Frameworks */,
-				BCEEBA8E1C02ED4000F46203 /* Resources */,
+				BCEEBABE1C02EE0900F46203 /* Sources */,
+				BCEEBABF1C02EE0900F46203 /* Frameworks */,
+				BCEEBAC01C02EE0900F46203 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -136,46 +136,46 @@
 			);
 			name = lajiao;
 			productName = lajiao;
-			productReference = BCEEBA901C02ED4000F46203 /* lajiao.app */;
+			productReference = BCEEBAC21C02EE0900F46203 /* lajiao.app */;
 			productType = "com.apple.product-type.application";
 		};
-		BCEEBAA81C02ED4000F46203 /* lajiaoTests */ = {
+		BCEEBADA1C02EE0900F46203 /* lajiaoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BCEEBAB61C02ED4000F46203 /* Build configuration list for PBXNativeTarget "lajiaoTests" */;
+			buildConfigurationList = BCEEBAE81C02EE0900F46203 /* Build configuration list for PBXNativeTarget "lajiaoTests" */;
 			buildPhases = (
-				BCEEBAA51C02ED4000F46203 /* Sources */,
-				BCEEBAA61C02ED4000F46203 /* Frameworks */,
-				BCEEBAA71C02ED4000F46203 /* Resources */,
+				BCEEBAD71C02EE0900F46203 /* Sources */,
+				BCEEBAD81C02EE0900F46203 /* Frameworks */,
+				BCEEBAD91C02EE0900F46203 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				BCEEBAAB1C02ED4000F46203 /* PBXTargetDependency */,
+				BCEEBADD1C02EE0900F46203 /* PBXTargetDependency */,
 			);
 			name = lajiaoTests;
 			productName = lajiaoTests;
-			productReference = BCEEBAA91C02ED4000F46203 /* lajiaoTests.xctest */;
+			productReference = BCEEBADB1C02EE0900F46203 /* lajiaoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BCEEBA881C02ED4000F46203 /* Project object */ = {
+		BCEEBABA1C02EE0900F46203 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = qianfeng;
 				TargetAttributes = {
-					BCEEBA8F1C02ED4000F46203 = {
+					BCEEBAC11C02EE0900F46203 = {
 						CreatedOnToolsVersion = 6.4;
 					};
-					BCEEBAA81C02ED4000F46203 = {
+					BCEEBADA1C02EE0900F46203 = {
 						CreatedOnToolsVersion = 6.4;
-						TestTargetID = BCEEBA8F1C02ED4000F46203;
+						TestTargetID = BCEEBAC11C02EE0900F46203;
 					};
 				};
 			};
-			buildConfigurationList = BCEEBA8B1C02ED4000F46203 /* Build configuration list for PBXProject "lajiao" */;
+			buildConfigurationList = BCEEBABD1C02EE0900F46203 /* Build configuration list for PBXProject "lajiao" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -183,29 +183,29 @@
 				en,
 				Base,
 			);
-			mainGroup = BCEEBA871C02ED4000F46203;
-			productRefGroup = BCEEBA911C02ED4000F46203 /* Products */;
+			mainGroup = BCEEBAB91C02EE0900F46203;
+			productRefGroup = BCEEBAC31C02EE0900F46203 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BCEEBA8F1C02ED4000F46203 /* lajiao */,
-				BCEEBAA81C02ED4000F46203 /* lajiaoTests */,
+				BCEEBAC11C02EE0900F46203 /* lajiao */,
+				BCEEBADA1C02EE0900F46203 /* lajiaoTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		BCEEBA8E1C02ED4000F46203 /* Resources */ = {
+		BCEEBAC01C02EE0900F46203 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BCEEBA9F1C02ED4000F46203 /* Main.storyboard in Resources */,
-				BCEEBAA41C02ED4000F46203 /* LaunchScreen.xib in Resources */,
-				BCEEBAA11C02ED4000F46203 /* Images.xcassets in Resources */,
+				BCEEBAD11C02EE0900F46203 /* Main.storyboard in Resources */,
+				BCEEBAD61C02EE0900F46203 /* LaunchScreen.xib in Resources */,
+				BCEEBAD31C02EE0900F46203 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BCEEBAA71C02ED4000F46203 /* Resources */ = {
+		BCEEBAD91C02EE0900F46203 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -215,47 +215,47 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		BCEEBA8C1C02ED4000F46203 /* Sources */ = {
+		BCEEBABE1C02EE0900F46203 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BCEEBA9C1C02ED4000F46203 /* ViewController.m in Sources */,
-				BCEEBA991C02ED4000F46203 /* AppDelegate.m in Sources */,
-				BCEEBA961C02ED4000F46203 /* main.m in Sources */,
+				BCEEBACE1C02EE0900F46203 /* ViewController.m in Sources */,
+				BCEEBACB1C02EE0900F46203 /* AppDelegate.m in Sources */,
+				BCEEBAC81C02EE0900F46203 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BCEEBAA51C02ED4000F46203 /* Sources */ = {
+		BCEEBAD71C02EE0900F46203 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BCEEBAB01C02ED4000F46203 /* lajiaoTests.m in Sources */,
+				BCEEBAE21C02EE0900F46203 /* lajiaoTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		BCEEBAAB1C02ED4000F46203 /* PBXTargetDependency */ = {
+		BCEEBADD1C02EE0900F46203 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BCEEBA8F1C02ED4000F46203 /* lajiao */;
-			targetProxy = BCEEBAAA1C02ED4000F46203 /* PBXContainerItemProxy */;
+			target = BCEEBAC11C02EE0900F46203 /* lajiao */;
+			targetProxy = BCEEBADC1C02EE0900F46203 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		BCEEBA9D1C02ED4000F46203 /* Main.storyboard */ = {
+		BCEEBACF1C02EE0900F46203 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				BCEEBA9E1C02ED4000F46203 /* Base */,
+				BCEEBAD01C02EE0900F46203 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		BCEEBAA21C02ED4000F46203 /* LaunchScreen.xib */ = {
+		BCEEBAD41C02EE0900F46203 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				BCEEBAA31C02ED4000F46203 /* Base */,
+				BCEEBAD51C02EE0900F46203 /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -263,7 +263,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		BCEEBAB11C02ED4000F46203 /* Debug */ = {
+		BCEEBAE31C02EE0900F46203 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -307,7 +307,7 @@
 			};
 			name = Debug;
 		};
-		BCEEBAB21C02ED4000F46203 /* Release */ = {
+		BCEEBAE41C02EE0900F46203 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -345,7 +345,7 @@
 			};
 			name = Release;
 		};
-		BCEEBAB41C02ED4000F46203 /* Debug */ = {
+		BCEEBAE61C02EE0900F46203 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -355,7 +355,7 @@
 			};
 			name = Debug;
 		};
-		BCEEBAB51C02ED4000F46203 /* Release */ = {
+		BCEEBAE71C02EE0900F46203 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -365,7 +365,7 @@
 			};
 			name = Release;
 		};
-		BCEEBAB71C02ED4000F46203 /* Debug */ = {
+		BCEEBAE91C02EE0900F46203 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -384,7 +384,7 @@
 			};
 			name = Debug;
 		};
-		BCEEBAB81C02ED4000F46203 /* Release */ = {
+		BCEEBAEA1C02EE0900F46203 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -402,32 +402,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BCEEBA8B1C02ED4000F46203 /* Build configuration list for PBXProject "lajiao" */ = {
+		BCEEBABD1C02EE0900F46203 /* Build configuration list for PBXProject "lajiao" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BCEEBAB11C02ED4000F46203 /* Debug */,
-				BCEEBAB21C02ED4000F46203 /* Release */,
+				BCEEBAE31C02EE0900F46203 /* Debug */,
+				BCEEBAE41C02EE0900F46203 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BCEEBAB31C02ED4000F46203 /* Build configuration list for PBXNativeTarget "lajiao" */ = {
+		BCEEBAE51C02EE0900F46203 /* Build configuration list for PBXNativeTarget "lajiao" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BCEEBAB41C02ED4000F46203 /* Debug */,
-				BCEEBAB51C02ED4000F46203 /* Release */,
+				BCEEBAE61C02EE0900F46203 /* Debug */,
+				BCEEBAE71C02EE0900F46203 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		BCEEBAB61C02ED4000F46203 /* Build configuration list for PBXNativeTarget "lajiaoTests" */ = {
+		BCEEBAE81C02EE0900F46203 /* Build configuration list for PBXNativeTarget "lajiaoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BCEEBAB71C02ED4000F46203 /* Debug */,
-				BCEEBAB81C02ED4000F46203 /* Release */,
+				BCEEBAE91C02EE0900F46203 /* Debug */,
+				BCEEBAEA1C02EE0900F46203 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BCEEBA881C02ED4000F46203 /* Project object */;
+	rootObject = BCEEBABA1C02EE0900F46203 /* Project object */;
 }
